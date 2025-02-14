@@ -2,6 +2,7 @@ void main(){
   int v= sum(3,4);
   print(v);
   pritnSum(4,6);
+  print('hii');
 
 
 }
